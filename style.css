@@ -2,6 +2,10 @@
     margin-bottom: 80px;
 }
 
+.navbar {
+    padding: 0 8%;
+}
+
 .buy-now-button {
     width: 150px;
     height: 50px;
