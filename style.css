@@ -1,9 +1,13 @@
-.container {
-    margin-bottom: 80px;
-}
-
 .navbar {
     padding: 0 8%;
+}
+
+.navbar img {
+    width: 100px;
+}
+
+.carousel-top {
+    margin-top: 10%;
 }
 
 .buy-now-button {
