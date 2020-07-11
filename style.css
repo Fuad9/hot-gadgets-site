@@ -3,11 +3,11 @@
 }
 
 .navbar img {
-    width: 100px;
+    width: 120px;
 }
 
 .carousel-top {
-    margin-top: 10%;
+    padding-top: 12%;
 }
 
 .buy-now-button {
@@ -26,7 +26,8 @@
     text-align: center;
 }
 
-h5 {
+h5,
+.categories h1 {
     text-align: center;
 }
 
@@ -42,35 +43,23 @@ h6 {
     border-radius: 20px;
 }
 
-.categories h1 {
-    text-align: center;
-}
-
-.bag-container {
-    margin-right: 2%;
-    border: none;
-}
-
 .card {
     border: none;
     border-radius: 10px;
     box-shadow: 10px 10px 20px lightgray;
 }
 
-.bag {
-    border: none;
-    border-radius: 0px 10px;
-    box-shadow: 10px 10px 20px lightgray;
+.card img {
+    width: 100%;
 }
 
+.bag,
 .perfume,
 .shoe {
-    margin-top: 8%;
-    border: none;
-    border-radius: 0px 10px;
-    box-shadow: 10px 10px 20px lightgray;
+    width: 250px;
 }
 
 .pale-order {
     width: 100%;
+    height: 500px;
 }
